@@ -8,6 +8,6 @@ Today, I set up gethub and worked on C# for an hour  practicing an exercise in l
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work:** [Team Treehouse] (https://teamtreehouse.com/elomaye)
-[Practice Loops and conditionals in C#] (https://teamtreehouse.com/library/the-challenge-7)
+**Link(s) to work:** [Team Treehouse](https://teamtreehouse.com/elomaye)
+[Practice Loops and conditionals in C#](https://teamtreehouse.com/library/the-challenge-7)
 
