@@ -44,16 +44,14 @@ namespace Treehouse.PracticeSession
 										// TODO Output the result.
                     // Example: "The square of 2 is 4." or 
                     // "2 multiplied by itself is equal to 4."
-								Console.WriteLine("The square of " + Console.ReadLine() + "is equal to" + entry);
+								Console.WriteLine("The square of " + entry + " is equal to " + number);
 						}
-						
-							{
-								// TODO Output the text "Goodbye!" after exiting the loop.
-								Console.WriteLine("Goodbye");
-							}
+								
 					}
             
-            
+            // TODO Output the text "Goodbye!" after exiting the loop.
+								Console.WriteLine("Goodbye");
         }
     }
 }
+
