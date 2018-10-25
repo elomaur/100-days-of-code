@@ -11,8 +11,12 @@ Today, I set up my repo, update the journal log and cleaned up old repos
 
 ## R1 Day 2: October 24, 2018
 
+**Today's Progress**: I practiced loops and conditionals in C#. The challenge was to create a program that prompts the user for
+a number, calculates the square of the provided number, and displays the result.
 
-**Thoughts:**  
+I got to the point where the code is compiling but it is still not displaying the appropriate results. I will work on it tomorrow. 
+
+**Thoughts:**  I feel good about this challenge as I did not look for the answer at all. I wanted to make sure I solve it on my own. I used some notes from the lectures.
 
 **Link(s) to work:** 
 [Team Treehouse](https://teamtreehouse.com/elomaye)
