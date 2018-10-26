@@ -8,8 +8,11 @@ Today, I set up my repo, update the journal log and cleaned up old repos
 
 **Thoughts:** This is going to be interesting 
 
+***Link(s) to work:** 
+[Team Treehouse](https://teamtreehouse.com/elomaye)
 
-## R1 Day 2: October 24, 2018
+
+## R1 Day 1: October 24, 2018
 
 **Today's Progress**: I practiced loops and conditionals in C#. The challenge was to create a program that prompts the user for
 a number, calculates the square of the provided number, and displays the result.
@@ -19,9 +22,16 @@ I got to the point where the code is compiling but it is still not displaying th
 **Thoughts:**  I feel good about this challenge as I did not look for the answer at all. I wanted to make sure I solve it on my own. I used some notes from the lectures.
 
 **Link(s) to work:** 
-[Team Treehouse](https://teamtreehouse.com/elomaye)
-
 [Practice Loops and conditionals in C#](https://teamtreehouse.com/library/the-challenge-7)
 
 
+## R1 Day 2: October 25, 2018
+
+**Today's Progress**: I cleaned up the code for previous challenge to display the correct output and worked on if/else if/else temperature challenge which was also completed. Found out there is no built in "between" operator in C#. 
+
+
+**Thoughts:**  So far so good
+
+**Link(s) to work:** 
+[Practice Loops and conditionals in C#](https://teamtreehouse.com/library/c-basics/perfect/if-else-if-else-2)
 
