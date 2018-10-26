@@ -27,7 +27,7 @@ namespace Treehouse.PracticeSession
 						// TODO If the user entered the text "quit"...
 							if (entry == "quit")
 						{
-              // TODO Exit the program.
+              				// TODO Exit the program.
 							keepGoing = false;
 						}
 						
@@ -39,18 +39,18 @@ namespace Treehouse.PracticeSession
 							
 								// TODO Square the user's provided number 
                     // (i.e. multiply the number by itself).
-								number = number * number;
+								int result = number * number;
 							
 										// TODO Output the result.
                     // Example: "The square of 2 is 4." or 
                     // "2 multiplied by itself is equal to 4."
-								Console.WriteLine("The square of " + entry + " is equal to " + number);
+								Console.WriteLine("The square of " + entry + " is equal to " + result + ".");
 						}
 								
 					}
             
             // TODO Output the text "Goodbye!" after exiting the loop.
-								Console.WriteLine("Goodbye");
+								Console.WriteLine("Goodbye!");
         }
     }
 }
