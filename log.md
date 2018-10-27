@@ -40,7 +40,7 @@ I got to the point where the code is compiling but it is still not displaying th
 **Today's Progress**: Learned to validate input using the "continue" statement, "try" code and "catch" exceptions in addition to an intro to variable scope.
 
 
-**Thoughts:**  While I do understand the concept of exceptions, coding it and reading the errors challenging. 
+**Thoughts:**  While I do understand the concept of exceptions, coding it and reading the errors was challenging. 
 The concept of variable scope is still very fuzzy to me. I will need a lot of practice to figure this out.
 
 **Link(s) to work:** 
