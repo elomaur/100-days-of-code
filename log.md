@@ -77,3 +77,10 @@ Documentation
 [Input Validation](https://teamtreehouse.com/library/c-basics/perfect/final)
 
 
+## R1 Day5: October 28, 2018
+
+**Today's Progress**: Practiced Basic Variables, Input, and Output, Loops and Conditionals in C#
+
+**Thoughts:**  Just a practice day 
+
+
