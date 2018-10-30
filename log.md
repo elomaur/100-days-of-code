@@ -84,3 +84,9 @@ Documentation
 **Thoughts:**  Just a practice day 
 
 
+## R1 Day6: October 29, 2018
+
+**Today's Progress**: Learned about Object-Oriented Programing in C# and Enums. Practiced programming variables and types. I didn't practice as much as I wanted today partly due to finishing another course about how to learn effectively and some fatigue from sleeping very late the previous night trying to solve a programming problem. Will eat some frogs early tomorrow morning. 
+
+**Thoughts:**  okay day. 
+
