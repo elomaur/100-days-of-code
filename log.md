@@ -90,3 +90,12 @@ Documentation
 
 **Thoughts:**  okay day. 
 
+
+
+## R1 Day7: October 30, 2018
+
+**Today's Progress**: Started OOP. Learned how objects and classes, instantiation, private /public fields and object initialization fit into the concept. I had a really hard time grasping instantiation and object initialization despite the practice exercises. I will try again tomorrow and start working on the exercises from the book. Hopefully it will clarify things a little more.
+
+**Thoughts:**  Things are getting harder. 
+ 
+
