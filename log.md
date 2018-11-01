@@ -99,3 +99,8 @@ Documentation
 **Thoughts:**  Things are getting harder. 
  
 
+## R1 Day8: October 30, 2018
+
+**Today's Progress**: Completed OOP in C# but I need to learn more to deepen my understanding. I did a practice code that helped me further understand what a constructor was.  I will do some reinforcement practice tomorrow. 
+
+**Thoughts:** Practicing even a little each day helps. 
