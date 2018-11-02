@@ -1,15 +1,11 @@
-using System;
-
 namespace Treehouse.MediaLibrary
-class Album
 {
-    static void Main()
+    class Album
     {
-        public string Genre;
-        public string Artist;
-
-    public Album()
-    {
+            public string Genre;
+            public string Artist;
+        public Album()
+        {
+        }
     }
-}
 }

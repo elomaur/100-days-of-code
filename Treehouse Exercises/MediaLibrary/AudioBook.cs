@@ -1,11 +1,8 @@
-using System;
-
 namespace Treehouse.MediaLibrary
-class AudioBook
 {
-    static void Main()
+    class AudioBook
     {
-        public string Author;
-        public string Title;
+            public string Author;
+            public string Title;
     }
 }
