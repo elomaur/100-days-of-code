@@ -104,3 +104,10 @@ Documentation
 **Today's Progress**: Completed OOP in C# but I need to learn more to deepen my understanding. I did a practice code that helped me further understand what a constructor was.  I will do some reinforcement practice tomorrow. 
 
 **Thoughts:** Practicing even a little each day helps. 
+
+
+## R1 Day9: November 1, 2018
+
+**Today's Progress**: Started new practice exercise on instantiating class Instances and  adding constructors. Created classes and added public fields to each class. 
+
+**Thoughts:** It is making more sense one step at a time.  
