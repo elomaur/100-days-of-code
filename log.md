@@ -112,7 +112,7 @@ Documentation
 
 **Thoughts:** It is making more sense one step at a time.  
 
-## R1 Day10: November 1, 2018
+## R1 Day10: November 2, 2018
 
 **Today's Progress**: Started challenge 2. Added instances for each media type class and added value but I couldn't not get it right. 
 
