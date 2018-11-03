@@ -5,8 +5,10 @@ namespace Treehouse.MediaLibrary
             public string Title;
             public string Director;
 
-        public Movie()
+        public Movie(string Title,string Director)
         {
+            Title = Title;
+            Director = Director;
         }
     }
 }

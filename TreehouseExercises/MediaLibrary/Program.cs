@@ -4,9 +4,19 @@ namespace MediaLibrary
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            var movie = new Movie();
+            movie.Title = "Batman";
+            movie.Director = "Jason McDonalds";
+
+            var album = new Album();
+            album.Title = "1984";
+            album.Artist = "The Submarine";
+
+            var audiobook = new AudioBook();
+            audiobook.Title = "The Art of War";
+            audiobook.Author = "Sun-Tzu";
         }
     }
 }

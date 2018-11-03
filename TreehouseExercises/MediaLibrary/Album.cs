@@ -2,10 +2,12 @@ namespace Treehouse.MediaLibrary
 {
     class Album
     {
-            public string Genre;
+            public string Title;
             public string Artist;
-        public Album()
+        public Album(string Title,string Artist)
         {
+            Title = Title;
+            Artist = Artist;
         }
     }
 }
