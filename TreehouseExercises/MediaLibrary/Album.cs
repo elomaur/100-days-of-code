@@ -4,10 +4,10 @@ namespace Treehouse.MediaLibrary
     {
             public string Title;
             public string Artist;
-        public Album(string Title,string Artist)
+            public Album(string title, string artist)
         {
-            Title = Title;
-            Artist = Artist;
+            Title = title;
+            Artist = artist;
         }
     }
 }

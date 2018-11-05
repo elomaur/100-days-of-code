@@ -5,10 +5,10 @@ namespace Treehouse.MediaLibrary
             public string Title;
             public string Author;
 
-        public AudioBook(string Title,string Author)
+            public AudioBook(string title, string author)
         {
-            Title = Title;
-            Author = Author;
+            Title = title;
+            Author = author;
         }
     }
 }

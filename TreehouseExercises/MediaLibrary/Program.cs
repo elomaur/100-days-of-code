@@ -1,22 +1,18 @@
 ﻿using System;
 
-namespace MediaLibrary
+namespace Treehouse.MediaLibrary
 {
     class Program
     {
         static void Main()
         {
-            var movie = new Movie();
-            movie.Title = "Batman";
-            movie.Director = "Jason McDonalds";
+            var movie = new Movie("Batman", "Jason McDonalds");
+            var album = new Album("1984", "The Submarines");
+            var audiobook = new AudioBook("The Art of War", "Sun-Tzu");
 
-            var album = new Album();
-            album.Title = "1984";
-            album.Artist = "The Submarine";
-
-            var audiobook = new AudioBook();
-            audiobook.Title = "The Art of War";
-            audiobook.Author = "Sun-Tzu";
+            Console.WriteLine("Movie: " + movie.Title + " by " + movie.Director);
+            Console.WriteLine("Album: " + album.Title + " by " + album.Artist);
+            Console.WriteLine("Audiobook: " + audiobook.Title + " by " + audiobook.Author);
         }
     }
 }

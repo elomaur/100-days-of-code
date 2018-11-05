@@ -123,3 +123,10 @@ Documentation
 **Today's Progress**: Continued working on challenge 2. Still getting errors. 
 
 **Thoughts:** Started working on the exercise from "Learn C# in one day" to get a broader understanding of what I am missing
+
+# R1 Day12: November 4, 2018
+
+**Today's Progress**: Finished challenge 2. I ended up watching the solution video after struggling to figure out the solution on my own, however, I was surprised 
+to find out that I wasn't far of the actual solution as much as I thought. I have a better understanding of how to instantiate objects. More practice should solidify the concept.  
+
+**Thoughts:** Watching the answer helped clarify the concept even though I was disaapointed in myself for not finding the solution on my own at first. 
