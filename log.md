@@ -114,9 +114,9 @@ Documentation
 
 ## R1 Day10: November 2, 2018
 
-**Today's Progress**: Started challenge 2. Added instances for each media type class and added value but I couldn't not get it right. 
+**Today's Progress**: Started challenge 2. Added instances for each media type class and added value but I could not get it right. 
 
-**Thoughts:** IMore challenging that I thought
+**Thoughts:** More challenging that I thought
 
 ## R1 Day11: November 3, 2018
 
