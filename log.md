@@ -130,3 +130,9 @@ Documentation
 to find out that I wasn't far of the actual solution as much as I thought. I have a better understanding of how to instantiate objects. More practice should solidify the concept.  
 
 **Thoughts:** Watching the answer helped clarify the concept even though I was disaapointed in myself for not finding the solution on my own at first. 
+
+# R1 Day13: November 5, 2018
+
+**Today's Progress**: Started methods in the objects section. Completed practice challenge   
+
+**Thoughts:** Did some reading from the C# book as well.  
