@@ -136,3 +136,9 @@ to find out that I wasn't far of the actual solution as much as I thought. I hav
 **Today's Progress**: Started methods in the objects section. Completed practice challenge   
 
 **Thoughts:** Did some reading from the C# book as well.  
+
+# R1 Day14: November 6, 2018
+
+**Today's Progress**: Worked on methods, return values, static vs instance methods with a bit a practice. Not grasping it all but I will keep plowing through.
+
+**Thoughts:** Slow and steady
