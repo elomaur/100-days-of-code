@@ -142,3 +142,9 @@ to find out that I wasn't far of the actual solution as much as I thought. I hav
 **Today's Progress**: Worked on methods, return values, static vs instance methods with a bit a practice. Not grasping it all but I will keep plowing through.
 
 **Thoughts:** Slow and steady
+
+# R1 Day15: November 7, 2018
+
+**Today's Progress**: Completed methods with 2 challenge but I feel like I need to go over this lesson a few more times to fully grasp it or maybe switch to a the book for the rest of the week. 
+
+**Thoughts:** Keep at it. 
