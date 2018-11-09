@@ -9,5 +9,11 @@ namespace Treehouse.MediaLibrary
             Title = title;
             Director = director;
         }
+            public string GetDisplay()
+
+            {
+                return "Album: " + Title + "by" + Artist;
+            }
+
     }
 }
