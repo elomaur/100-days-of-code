@@ -148,3 +148,9 @@ to find out that I wasn't far of the actual solution as much as I thought. I hav
 **Today's Progress**: Completed methods with 2 challenge but I feel like I need to go over this lesson a few more times to fully grasp it or maybe switch to a the book for the rest of the week. 
 
 **Thoughts:** Keep at it. 
+
+# R1 Day16: November 8, 2018
+
+**Today's Progress**: Worked on a method challenge where I added a GetDisplayText() method to a media type class. Read a bit from the book.
+
+**Thoughts:** I will keep practicing until it syncs in.
