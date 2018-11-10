@@ -154,3 +154,10 @@ to find out that I wasn't far of the actual solution as much as I thought. I hav
 **Today's Progress**: Worked on a method challenge where I added a GetDisplayText() method to a media type class. Read a bit from the book.
 
 **Thoughts:** I will keep practicing until it syncs in.
+
+# R1 Day16: November 8, 2018
+
+**Today's Progress**: Took it easy today and switched gears from learning C# to go through front-end challenges on freecodecamp. 
+Revised lessons in HTML and CSS that I had abandonned since 2015.
+
+**Thoughts:** easy day.
