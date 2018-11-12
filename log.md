@@ -168,7 +168,7 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** Frustrations are part of the process.
 
-# R1 Day18: November 11, 2018
+# R1 Day19: November 11, 2018
 
 **Today's Progress**: Reread and went through examples of namespaces, objects, classes, methods, fields, constructors, parameters and arguments to get a better grasps of the concepts. I thought I understood them but I did not. Started working through challenge again. Made some progress but didn't finish. 
 
