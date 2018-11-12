@@ -155,9 +155,21 @@ to find out that I wasn't far of the actual solution as much as I thought. I hav
 
 **Thoughts:** I will keep practicing until it syncs in.
 
-# R1 Day17: November 8, 2018
+# R1 Day17: November 9, 2018
 
 **Today's Progress**: Took it easy today and switched gears from learning C# to go through front-end challenges on freecodecamp. 
 Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** easy day.
+
+# R1 Day18: November 10, 2018
+
+**Today's Progress**: Started a new challenge today but completely fumbled through the challenge and couldn't figure it out. It means I still don't have a good grasp of methods. SO back to square one it is.
+
+**Thoughts:** Frustrations are part of the process.
+
+# R1 Day18: November 11, 2018
+
+**Today's Progress**: Reread and went through examples of namespaces, objects, classes, methods, fields, constructors, parameters and arguments to get a better grasps of the concepts. I thought I understood them but I did not. Started working through challenge again. Made some progress but didn't finish. 
+
+**Thoughts:** Frustrations are part of the process.
