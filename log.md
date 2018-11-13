@@ -173,3 +173,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Reread and went through examples of namespaces, objects, classes, methods, fields, constructors, parameters and arguments to get a better grasps of the concepts. I thought I understood them but I did not. Started working through challenge again. Made some progress but didn't finish. 
 
 **Thoughts:** Frustrations are part of the process.
+
+# R1 Day20: November 12, 2018
+
+**Today's Progress**: Spent time working on CSS exercises on freecodecamp today  
+
+**Thoughts:** A little break in between doesn't hurt. back to C# tomorrow
