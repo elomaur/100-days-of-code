@@ -179,3 +179,10 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Spent time working on CSS exercises on freecodecamp today  
 
 **Thoughts:** A little break in between doesn't hurt. back to C# tomorrow
+
+
+# R1 Day21: November 13, 2018
+
+**Today's Progress**: Went over the methods challenge again.  It feels incredibly frustrating that the solution doesn't make any sense to me. Parts of it do but I cannot connect it all together. Feels like some steps are missing in the course. 
+
+**Thoughts:** I will finish this exercise and move on. Perhaps it will make sense later

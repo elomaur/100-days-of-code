@@ -27,4 +27,4 @@ namespace TreehouseDefense
       int yDiffSquared = yDiff * yDiff;
         
       return (int)Math.Sqrt(xDiffSquared + yDiffSquared);
-      Run program command: mcs -out:TreehouseDefense.exe *.cs && mono TreehouseDefense.exe  */                                                                                                                  
+*/                                                                                                                  
