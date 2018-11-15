@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Treehouse.MediaLibrary
 {
@@ -6,13 +6,26 @@ namespace Treehouse.MediaLibrary
     {
         static void Main()
         {
-            var movie = new Movie("Batman", "Jason McDonalds");
-            var album = new Album("1984", "The Submarines");
-            var audiobook = new AudioBook("The Art of War", "Sun-Tzu");
-
-            Console.WriteLine("Movie: " + movie.Title + " by " + movie.Director);
-            Console.WriteLine("Album: " + album.Title + " by " + album.Artist);
-            Console.WriteLine("Audiobook: " + audiobook.Title + " by " + audiobook.Author);
+            var album1 = new Album("Yellow Submarine", "The Beatles");
+            var album2 = new Album("The Wall", "Pink Floyd");
+            var album3 = new Album("1984", "The Submarines");
+          
+            Console.WriteLine(album1.GetDisplayText());
+            Console.WriteLine(album2.GetDisplayText());
+            Console.WriteLine(album3.GetDisplayText());
+          
+            album1.Loan("Joe Smith");
+            album2.Loan();
+          
+            Console.WriteLine(album1.GetDisplayText());
+            Console.WriteLine(album2.GetDisplayText());
+          
+            album1.Return();
+            album2.Return();
+          
+            Console.WriteLine(album1.GetDisplayText());
+            Console.WriteLine(album2.GetDisplayText());
+               
         }
     }
 }

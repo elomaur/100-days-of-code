@@ -1,14 +1,14 @@
 namespace Treehouse.MediaLibrary
 {
-    class Movie
+    class Book
     {
         public readonly string Title;
-        public readonly string Director;
+        public readonly string Author;
         
-        public Movie(string title, string director)
+        public Book(string title, string author)
         {
             Title = title;
-            Director = director;
+            Author = author;
         }
     }
 }
