@@ -186,3 +186,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Went over the methods challenge again.  It feels incredibly frustrating that the solution doesn't make any sense to me. Parts of it do but I cannot connect it all together. Feels like some steps are missing in the course. 
 
 **Thoughts:** I will finish this exercise and move on. Perhaps it will make sense later
+
+# R1 Day22: November 14, 2018
+
+**Today's Progress**: Completed the challenge after much struggle. It's still not all together but I am moving on to the next lesson. I will come back to it later. Started inheritance in C#
+
+**Thoughts:** Exercise completed. 
