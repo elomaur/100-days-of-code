@@ -192,3 +192,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed the challenge after much struggle. It's still not all together but I am moving on to the next lesson. I will come back to it later. Started inheritance in C#
 
 **Thoughts:** Exercise completed. 
+
+# R1 Day23: November 15, 2018
+
+**Today's Progress**: Finished inheritance challenge and did some practice on HackerRank
+
+**Thoughts:** I seem to be learning a lot more by doing challenges and watching less videos.  
