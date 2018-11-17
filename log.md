@@ -198,3 +198,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Finished inheritance challenge and did some practice on HackerRank
 
 **Thoughts:** I seem to be learning a lot more by doing challenges and watching less videos.  
+
+# R1 Day24: November 16, 2018
+
+**Today's Progress**: Finished 1st challenge in C# on HackerRank
+
+**Thoughts:** Keep pushing
