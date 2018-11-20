@@ -204,3 +204,21 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Finished 1st challenge in C# on HackerRank
 
 **Thoughts:** Keep pushing
+
+# R1 Day25: November 17, 2018
+
+**Today's Progress**: Day 25: Took a day off programming c# to reboot.
+
+**Thoughts:** ....
+
+# R1 Day26: November 18, 2018
+
+**Today's Progress**: Took a day off programming to reboot.
+
+**Thoughts:** ....
+
+# R1 Day27: November 19, 2018
+
+**Today's Progress**: Went over exceptions and practiced challenges on treehouse 
+
+**Thoughts:** Keep pushing
