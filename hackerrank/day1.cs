@@ -9,6 +9,7 @@ class Solution {
         string s = "HackerRank ";
 
           
+               
         // Declare second integer, double, and String variables.
             int i2 = 12;
             double d2 = 4.0;
@@ -23,7 +24,7 @@ class Solution {
             Console.WriteLine(i+ i2);
             
         // Print the sum of the double variables on a new line.
-             Console.WriteLine("{0:0.#}", d +d2);
+             Console.WriteLine("{0:F1}", d+d2);
         // Concatenate and print the String variables on a new line
             Console.WriteLine(s + s2);
 
