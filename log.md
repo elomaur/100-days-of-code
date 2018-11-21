@@ -222,3 +222,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Went over exceptions and practiced challenges on treehouse 
 
 **Thoughts:** Keep pushing
+
+# R1 Day28: November 20, 2018
+
+**Today's Progress**: Did a few code challenges with SoloLearn
+
+**Thoughts:** Time to get back into high gear
