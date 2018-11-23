@@ -229,8 +229,14 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** Time to get back into high gear
 
-# R1 Day29: November 20, 2018
+# R1 Day29: November 21, 2018
 
 **Today's Progress**: Code challenges with SoloLearn once again
+
+**Thoughts:** .....
+
+# R1 Day30: November 22, 2018
+
+**Today's Progress**: Started 2nd code challenge on hackerrank
 
 **Thoughts:** .....
