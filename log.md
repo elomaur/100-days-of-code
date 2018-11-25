@@ -246,3 +246,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Had a mentoring session with a software engineer at work to go over concepts I did not understand. Completed Inheritances lesson on #treehouse and made progress on ohackerrank 2nd challenge.
 
 **Thoughts:** getting the mojo back
+
+# R1 Day32: November 24, 2018
+
+**Today's Progress**: practiced coding with #sololearn
+
+**Thoughts:** back at it tomorrow
