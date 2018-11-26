@@ -252,3 +252,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: practiced coding with #sololearn
 
 **Thoughts:** back at it tomorrow
+
+# R1 Day32: November 25, 2018
+
+**Today's Progress**: Completed encapsulations and practice exercises 
+
+**Thoughts:** ...
