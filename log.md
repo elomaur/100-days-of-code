@@ -255,6 +255,12 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 # R1 Day32: November 25, 2018
 
-**Today's Progress**: Completed encapsulations and practice exercises 
+**Today's Progress**: Completed encapsulations module and practice exercises 
 
 **Thoughts:** ...
+
+# R1 Day33: November 26, 2018
+
+**Today's Progress**: Completed some c# programmming challenges on sololearn
+
+**Thoughts:** CAlmost done with week 3 of learning how to leaarn
