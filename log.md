@@ -263,4 +263,10 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Today's Progress**: Completed some c# programmming challenges on sololearn
 
-**Thoughts:** CAlmost done with week 3 of learning how to leaarn
+**Thoughts:** Almost done with week 3 of learning how to leaarn
+
+# R1 Day34: November 26, 2018
+
+**Today's Progress**: Switched gears for a day to complete some css exercises in freecodecamp
+
+**Thoughts:** Mind, body and spirit must be cared for each day. 
