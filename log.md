@@ -265,8 +265,14 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** Almost done with week 3 of learning how to leaarn
 
-# R1 Day34: November 26, 2018
+# R1 Day34: November 27, 2018
 
 **Today's Progress**: Switched gears for a day to complete some css exercises in freecodecamp
 
 **Thoughts:** Mind, body and spirit must be cared for each day. 
+
+# R1 Day35: November 28, 2018
+
+**Today's Progress**: Another day of css exercises in freecodecamp
+
+**Thoughts:** Make time for friends too 
