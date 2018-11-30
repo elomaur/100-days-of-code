@@ -276,3 +276,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Another day of css exercises in freecodecamp
 
 **Thoughts:** Make time for friends too 
+
+# R1 Day36: November 29, 2018
+
+**Today's Progress**: Completed Encapsulation with properties in C# along with various mid-courses challenges
+
+**Thoughts:** ... 
