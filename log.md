@@ -282,3 +282,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed Encapsulation with properties in C# along with various mid-courses challenges
 
 **Thoughts:** ... 
+
+# R1 Day37: November 30, 2018
+
+**Today's Progress**: Completed Loops, Magic Numbers and Constants. Was planning to finish the entire section today but the code challenges took way longer than I planned to understand and attempt to solve.
+
+**Thoughts:** ... 
