@@ -288,3 +288,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed Loops, Magic Numbers and Constants. Was planning to finish the entire section today but the code challenges took way longer than I planned to understand and attempt to solve.
 
 **Thoughts:** ... 
+
+# R1 Day38: December 1, 2018
+
+**Today's Progress**: Completed the basic css module in freecodecamp's responsive design 
+
+**Thoughts:** ... 
