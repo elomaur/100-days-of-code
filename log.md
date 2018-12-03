@@ -294,3 +294,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed the basic css module in freecodecamp's responsive design 
 
 **Thoughts:** ... 
+
+# R1 Day39: December 2, 2018
+
+**Today's Progress**: Going over the HTML and HTML5 Curriculum in freeCodeCamp again as a refresher.  My plan is to complete all of it tomorrow and start the applied visual design lesson.
+
+**Thoughts:** ... 
