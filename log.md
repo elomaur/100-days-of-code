@@ -300,3 +300,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Going over the HTML and HTML5 Curriculum in freeCodeCamp again as a refresher.  My plan is to complete all of it tomorrow and start the applied visual design lesson.
 
 **Thoughts:** ... 
+
+# R1 Day40: December 3, 2018
+
+**Today's Progress**: Going over the HTML and HTML5 Curriculum in freeCodeCamp again as a refresher. Completed a few modules. 
+
+**Thoughts:** ... 
