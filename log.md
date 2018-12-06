@@ -312,3 +312,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Going over the HTML and HTML5 Curriculum in freeCodeCamp again as a refresher. Completed additional modules. 
 
 **Thoughts:** ...
+
+# R1 Day42: December 5, 2018
+
+**Today's Progress**: Completed a few modules of HTML in #freecodecamp and started a challenge in treehouse from the static members and fields course. Challenge ongoing. I am determined to complete it without help. 
+
+**Thoughts:** ... 
