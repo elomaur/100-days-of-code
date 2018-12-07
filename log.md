@@ -318,3 +318,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed a few modules of HTML in #freecodecamp and started a challenge in treehouse from the static members and fields course. Challenge ongoing. I am determined to complete it without help. 
 
 **Thoughts:** ... 
+
+# R1 Day43: December 6, 2018
+
+**Today's Progress**: Worked on the C# challenge. I did not make much progress today but tomorrow is another day. 
+
+**Thoughts:** ... 
