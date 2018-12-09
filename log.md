@@ -325,8 +325,14 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** ... 
 
-# R1 Day44: December 6, 2018
+# R1 Day44: December 7, 2018
 
 **Today's Progress**: Worked on more HTML modules in freecodecamp 
+
+**Thoughts:** ... 
+
+# R1 Day45: December 8, 2018
+
+**Today's Progress**: Almost done with the HTML section in #freecodecamp
 
 **Thoughts:** ... 
