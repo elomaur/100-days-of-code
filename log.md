@@ -336,3 +336,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Almost done with the HTML section in #freecodecamp
 
 **Thoughts:** ... 
+
+# R1 Day46: December 9, 2018
+
+**Today's Progress**: Completed the HTML section in #freecodecamp. Starting with Applied Visual Design Challenges. 
+
+**Thoughts:** ... 
