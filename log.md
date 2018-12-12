@@ -351,6 +351,6 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 # R1 Day48: December 11, 2018
 
-**Today's Progress**: Tood a day off
+**Today's Progress**: Took a day off
 
 **Thoughts:** ... 
