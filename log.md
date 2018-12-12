@@ -348,3 +348,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Completed Object-Oriented and beginning C# course in #treehouse. Diving into Intermediate C#. Let's go
 
 **Thoughts:** ... 
+
+# R1 Day48: December 11, 2018
+
+**Today's Progress**: Tood a day off
+
+**Thoughts:** ... 
