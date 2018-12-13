@@ -354,3 +354,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Took a day off
 
 **Thoughts:** ... 
+
+# R1 Day49: December 12, 2018
+
+**Today's Progress**: Started C# intermediate 
+
+**Thoughts:** ... 
