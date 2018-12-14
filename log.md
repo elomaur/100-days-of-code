@@ -360,3 +360,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Started C# intermediate 
 
 **Thoughts:** ... 
+
+# R1 Day50: December 13, 2018
+
+**Today's Progress**: Worked on Virtual Methods and Polymorphism for C#
+
+**Thoughts:** ... 
