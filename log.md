@@ -368,7 +368,7 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Thoughts:** ... 
 
 
-# R1 Day50: December 14, 2018
+# R1 Day51: December 14, 2018
 
 **Today's Progress**: Day off. Black Swan event
 
