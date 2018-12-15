@@ -366,3 +366,10 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Worked on Virtual Methods and Polymorphism for C#
 
 **Thoughts:** ... 
+
+
+# R1 Day50: December 14, 2018
+
+**Today's Progress**: Day off. Black Swan event
+
+**Thoughts:** ... 
