@@ -373,3 +373,21 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Day off. Black Swan event
 
 **Thoughts:** ... 
+
+# R1 Day52: December 15, 2018
+
+**Today's Progress**: Day off. 
+
+**Thoughts:** ... 
+
+# R1 Day53: December 16, 2018
+
+**Today's Progress**: Day off. 
+
+**Thoughts:** ... 
+
+# R1 Day54: December 17, 2018
+
+**Today's Progress**: Back at it. Started working on Applied Visual Design in #freecodecamp. 
+
+**Thoughts:** ... 
