@@ -397,3 +397,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: More exercises on Applied Visual Design in #freecodecamp. 
 
 **Thoughts:** ... 
+
+# R1 Day56: December 19, 2018
+
+**Today's Progress**: Eercises on Applied Visual Design in #freecodecamp. 
+
+**Thoughts:** ... 
