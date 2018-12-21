@@ -400,6 +400,12 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 # R1 Day56: December 19, 2018
 
-**Today's Progress**: Eercises on Applied Visual Design in #freecodecamp. 
+**Today's Progress**: Exercises on Applied Visual Design in #freecodecamp. 
+
+**Thoughts:** ... 
+
+# R1 Day57: December 20, 2018
+
+**Today's Progress**: Got back to C# intermediate on #treehouse after a hiatus. As much us it feels like crapping a pineapple going through this particular course where I feel like a lot of the material is flying over my head, I must keep on until it's completed then try another learning approach. 
 
 **Thoughts:** ... 
