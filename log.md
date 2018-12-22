@@ -409,3 +409,7 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Got back to C# intermediate on #treehouse after a hiatus. As much us it feels like crapping a pineapple going through this particular course where I feel like a lot of the material is flying over my head, I must keep on until it's completed then try another learning approach. 
 
 **Thoughts:** ... 
+
+# R1 Day58: December 21, 2018
+
+**Today's Progress**: Exercise on #freecodecamp Applied Visual Design module 
