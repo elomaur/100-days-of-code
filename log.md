@@ -429,3 +429,10 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Exercises on #freecodecamp Applied Visual Design module 
 
 **Thoughts:** ... 
+
+
+# R1 Day61: December 24, 2018
+
+**Today's Progress**: Day off. Spending time with family 
+
+**Thoughts:** ... 
