@@ -436,3 +436,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Day off. Spending time with family 
 
 **Thoughts:** ... 
+
+# R1 Day62: December 25, 2018
+
+**Today's Progress**: Day off
+
+**Thoughts:** ... 
