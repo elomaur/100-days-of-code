@@ -462,7 +462,7 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 
 **Thoughts:** ... 
 
-# R1 Day67: December 29, 2018
+# R1 Day66: December 29, 2018
 
 **Today's Progress**: Day off
 
