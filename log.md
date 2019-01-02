@@ -479,3 +479,9 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Last day off. Back at it tomorrow!
 
 **Thoughts:** ... 
+
+# R1 Day69: January 1, 2019
+
+**Today's Progress**: Continued from where I left off in #freecodecamp applied visual design
+
+**Thoughts:** ... 
