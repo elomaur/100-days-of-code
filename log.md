@@ -485,3 +485,10 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Continued from where I left off in #freecodecamp applied visual design
 
 **Thoughts:** ... 
+
+
+# R1 Day70: January 2, 2019
+
+**Today's Progress**: Exercises in #freecodecamp on fixed positioning, float and z-index property. 
+
+**Thoughts:** ... 
