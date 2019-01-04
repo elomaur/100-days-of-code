@@ -492,3 +492,12 @@ Revised lessons in HTML and CSS that I had abandonned since 2015.
 **Today's Progress**: Exercises in #freecodecamp on fixed positioning, float and z-index property. 
 
 **Thoughts:** ... 
+
+
+# R1 Day71: January 3, 2019
+
+**Today's Progress**: Exercises in #freecodecamp on centering elements. Starting color theory tomorrow 
+
+**Thoughts:** ... 
+
+
